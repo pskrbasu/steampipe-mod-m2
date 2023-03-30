@@ -8,5 +8,5 @@ query "m2_q2"{
 
 
 query "Q1"{
-    query = m3.Q1
+    query = query.m1.Q1
 }
