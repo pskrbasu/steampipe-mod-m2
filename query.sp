@@ -10,3 +10,7 @@ query "m2_q2"{
 query "Q1"{
     query = query.m1.Q1
 }
+
+query "Q2"{
+    query = query.m3.Q2
+}
